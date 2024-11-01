@@ -26,4 +26,4 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/dvdmeneses01/Sistema_de_pesagem)
+   git clone https://github.com/dvdmeneses01/SistemaDePesagem)
