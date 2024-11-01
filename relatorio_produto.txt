@@ -1,0 +1,5 @@
+Relatório de Produtos
+
+Codigo: 27, Nome: alcatra, Peso_liquido: 5874
+Codigo: 29, Nome: acem , Peso_liquido: 5875
+Codigo: 31, Nome: figado, Peso_liquido: 31
